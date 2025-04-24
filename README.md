@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋, I'm NEGASI HAILE.
 
-<!--
-**NegasiHaile/negasihaile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 A Software Developer And Data Scientist 𝐰𝐢𝐭𝐡 4 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 in:**
 
-Here are some ideas to get you started:
+- 👉 Business automation AI systems development.
+- 👉 Transforming complex datasets for machine learning and creating insightful visualizations.
+- 👉 Database design, API implementation, and transforming UI/UX designs into functional applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 𝐒𝐤𝐢𝐥𝐥𝐬**
+
+- 👉 languages: Python, JavaScript, Typescript, and C#
+- 👉 Development: Node.JS, ReactJS, VueJS, .NET core, and RESful API
+- 👉 Database: SQL, PostgreSQL, MySQL, and MongoDB
+- 👉 DevOps: AWS, Azure, Google Cloud, CI/CD, Docker, Kubernetes, and Vercel.
+- 👉 Data Science: Pandas, NumPy, Seaborn, NLTK, PyTorch, and Hugging Face Transformers.
