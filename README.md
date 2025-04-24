@@ -8,8 +8,8 @@
 
 **🚀 𝐒𝐤𝐢𝐥𝐥𝐬**
 
-- 👉 languages: Python, JavaScript, Typescript, and C#
-- 👉 Framework: Node.JS, ReactJS, VueJS, .NET core
+- 👉 languages: Python, JavaScript, TypeScript, and C#
+- 👉 Frameworks: Node.js, React.js, Vue.js, .net Core
 - 👉 Database: SQL, PostgreSQL, MySQL, and MongoDB
 - 👉 DevOps: AWS, Azure, Google Cloud, CI/CD, Docker, Kubernetes, and Vercel.
 - 👉 ML & Data Science: PyTorch, Pandas, NumPy, Seaborn, NLTK, and LangChain.
