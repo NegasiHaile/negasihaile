@@ -3,7 +3,7 @@
 **🚀 A Software Developer And Data Scientist 𝐰𝐢𝐭𝐡 4 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 in:**
 
 - 👉 Business automation AI systems development.
-- 👉 Transforming complex datasets for machine learning and creating insightful visualizations.
+- 👉 Transforming complex datasets into a machine learning leady format.
 - 👉 Database design, API implementation, and transforming UI/UX designs into functional applications.
 
 **🚀 𝐒𝐤𝐢𝐥𝐥𝐬**
