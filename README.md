@@ -1,15 +1,30 @@
-## Hi 👋, I'm NEGASI HAILE.
+## Hi 👋, I'm Negasi Haile
 
-**A Software Engineer And Data Scientist 𝐰𝐢𝐭𝐡 6 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 with expetise in:**
+**Software Engineer & Data Scientist** with **6+ years of experience** building  
+**data-driven AI systems** that automate business processes and scale to production.
 
-- Business automation AI systems development.
-- Transforming complex datasets into a machine learning ready format.
-- Database design, API implementation, and transforming UI/UX designs into functional applications.
+### What I Do
+- Design and deploy **AI-powered, data-driven business automation systems**
+- Build **scalable backend services**, APIs, and microservices
+- Translate **UI/UX designs into performant web applications**
+- Transform complex, real-world datasets into **machine-learning-ready pipelines**
 
-**𝐒𝐤𝐢𝐥𝐥𝐬**
+### Skills
 
-- languages: Python, JavaScript, TypeScript, and C#
-- Frameworks: Node.js, React.js, Vue.js, .net Core
-- Database: SQL, PostgreSQL, MySQL, and MongoDB
-- DevOps: AWS, Azure, Google Cloud, CI/CD, Docker, Kubernetes, and Vercel.
-- ML & Data Science: PyTorch, Pandas, NumPy, Seaborn, NLTK, and LangChain.
+**Languages**  
+Python, JavaScript, TypeScript, C#
+
+**Frameworks**  
+Node.js, React.js, Vue.js, .NET Core
+
+**Databases**  
+PostgreSQL, MySQL, MongoDB, SQL
+
+**DevOps & Cloud**  
+AWS, Azure, Google Cloud, Docker, Kubernetes, CI/CD, Vercel
+
+**ML & Data Science**  
+PyTorch, Pandas, NumPy, Seaborn, NLTK, LangChain
+
+🚀 Passionate about building **scalable AI products**, data platforms, and developer-friendly systems.
+
