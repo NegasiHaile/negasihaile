@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Negasi Haile
 **Software Engineer & Data Scientist** with **5+ years of experience** building  
-production ready **data-driven software solutions** that automate business processes.
+**data and AI driven software solutions** that automate business processes across healthcare and language technologies.
 
 ### What I Do
 - Design and deploy **AI-powered, data-driven business automation systems**
