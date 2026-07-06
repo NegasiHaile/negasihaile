@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Negasi Haile
-**Software Engineer & Data Scientist** with **6+ years of experience** building  
+**Software Engineer & Data Scientist** with **5+ years of experience** building  
 production ready **data-driven software solutions** that automate business processes.
 
 ### What I Do
